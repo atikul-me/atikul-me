@@ -9,7 +9,7 @@ Focus: Bridging the gap between clean code and high-quality Fullstack Developing
 
 💻 My Tech Stack:
 Languages: C (Foundation), HTML CSS (ongoing).
-Tools: VS Code,Google Antigravity, Git/GitHub, MacBook Air M2, Learning websites (W3schools, coddy.tech, codechef, codeforces, phitron.io, tryhackme, hackthebox.
+Tools: VS Code,Google Antigravity, Git/GitHub, MacBook Air M2, Learning websites (W3schools, coddy.tech, codechef, codeforces, phitron.io, tryhackme, hackthebox).
 Operating Systems: MacOS, Kali Linux, Ubuntu & Windows.
 
 📜 Beyond Coding:
