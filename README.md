@@ -22,8 +22,8 @@ Design: I appreciate aesthetics and strive for pixel-perfect UI.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SHIHAB69&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIHAB69&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=atikul-me&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atikul-me&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 Email: 261-35-272@diu.edu.bd
 
