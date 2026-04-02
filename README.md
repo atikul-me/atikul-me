@@ -22,6 +22,6 @@ Design: I appreciate aesthetics and strive for pixel-perfect UI.
 
 Email: 261-35-272@diu.edu.bd
 
-Portfolio: sites.google.com/diu.edu.bd/atikulshowrav/
+Portfolio: https://sites.google.com/diu.edu.bd/atikulshowrav/
 
 "Adalet mülkün temelidir" (Justice is the foundation of the state) — Inspired by the Ottoman sense of system and order.
