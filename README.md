@@ -20,13 +20,24 @@ Design: I appreciate aesthetics and strive for pixel-perfect UI.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://https://www.facebook.com/atiqulsourov423) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/atikul-me)
 
+Email: 261-35-272@diu.edu.bd
+
+Portfolio: https://sites.google.com/diu.edu.bd/atikulshowrav/
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atikul-me&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atikul-me&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Email: 261-35-272@diu.edu.bd
 
-Portfolio: https://sites.google.com/diu.edu.bd/atikulshowrav/
+![Profile views](https://komarev.com/ghpvc/?username=atikul-me)
 
 "Adalet mülkün temelidir" (Justice is the foundation of the state) — Inspired by the Ottoman sense of system and order.
+
+## My Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atikul-me/atikul-me/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atikul-me/atikul-me/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/atikul-me/atikul-me/output/pacman-contribution-graph.svg">
+</picture>
