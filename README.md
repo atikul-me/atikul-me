@@ -19,6 +19,7 @@ Design: I appreciate aesthetics and strive for pixel-perfect UI.
 📫 Reach Me:
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://https://www.facebook.com/atiqulsourov423) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/atikul-me)
+
 Email: 261-35-272@diu.edu.bd
 Portfolio: sites.google.com/diu.edu.bd/atikulshowrav/
 
