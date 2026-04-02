@@ -20,6 +20,11 @@ Design: I appreciate aesthetics and strive for pixel-perfect UI.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://https://www.facebook.com/atiqulsourov423) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/atikul-me)
 
+# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SHIHAB69&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIHAB69&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 Email: 261-35-272@diu.edu.bd
 
 Portfolio: https://sites.google.com/diu.edu.bd/atikulshowrav/
