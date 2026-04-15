@@ -10,7 +10,7 @@ Focus: Bridging the gap between clean code and high-quality problem solving for 
 
 💻 My Tech Stack:
 Languages: C (Foundation), HTML CSS (ongoing).
-Tools: VS Code, Sublime Text, DEV C/C++, Google Antigravity, Git/GitHub, MacBook Air M2, Learning websites (https://W3schools.com, https://coddy.tech, https://codechef.com, https://codeforces.com, https://phitron.io, https://tryhackme, https://hackthebox).
+Tools: VS Code, Sublime Text, DEV C/C++, Google Antigravity, Git/GitHub, MacBook Air M2, Learning websites |https://W3schools.com| https://coddy.tech| https://codechef.com| https://codeforces.com| https://phitron.io| https://tryhackme|https://hackthebox|
 Operating Systems: MacOS, Kali Linux, Ubuntu & Windows.
 
 📜 Beyond Coding:
