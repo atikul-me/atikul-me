@@ -5,11 +5,12 @@ I am a passionate Software Engineering student at Daffodil International Univers
 🛠️ What I'm working on:
 Internship: Contributing to https://ukil.com.bd, focusing on Frontend Development and basic security monitoring for now as a Tech Intern.
 Learning: Mastering C programming (logic building with loops & patterns) and exploring the magic of Tech world and web Security.
-Focus: Bridging the gap between clean code and high-quality Fullstack Developing.
+Course: Recently I am doing phitron.io published paid course named "CSE fundamentals with Phitron" where I am learning the fundamentals and core concepts of programming and bulding logic and increasing problem solving ability. Learning and giving importance to DSA and doing some Competitive Programming. 
+Focus: Bridging the gap between clean code and high-quality problem solving for gaining the benefit for becoming a SOC Analyst.
 
 💻 My Tech Stack:
 Languages: C (Foundation), HTML CSS (ongoing).
-Tools: VS Code,Google Antigravity, Git/GitHub, MacBook Air M2, Learning websites (W3schools, coddy.tech, codechef, codeforces, phitron.io, tryhackme, hackthebox).
+Tools: VS Code, Sublime Text, DEV C/C++, Google Antigravity, Git/GitHub, MacBook Air M2, Learning websites (W3schools, coddy.tech, codechef, codeforces, phitron.io, tryhackme, hackthebox).
 Operating Systems: MacOS, Kali Linux, Ubuntu & Windows.
 
 📜 Beyond Coding:
