@@ -1,5 +1,7 @@
 Hi there, I'm Mohammad Atikul Hoque Showrav 👋
+
 🚀 Aspirant Fullstack Developer | Code-Aware SOC Analyst | History Buff
+
 I am a passionate Software Engineering student at Daffodil International University (1st Semester), currently diving deep into the world of logic, algorithms, and web technologies. I believe in building systems that are as robust as the Ottoman laws and as innovative as modern tech.
 
 🛠️ What I'm working on:
