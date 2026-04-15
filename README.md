@@ -1,4 +1,4 @@
-Hi there, I'm Mohammad Atikul Hoque Showrav 👋
+Hi there, I am Mohammad Atikul Hoque Showrav 👋
 
 🚀 Aspirant Backend Developer | Code-Aware SOC Analyst | History Buff
 
