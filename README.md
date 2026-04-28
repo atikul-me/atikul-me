@@ -1,27 +1,57 @@
-Hi there, I am Mohammad Atikul Hoque Showrav 👋
+<div align="center">
 
-🚀 Aspirant Backend Developer | Code-Aware SOC Analyst | History Buff
+# ⚡ Mohammad Atikul Hoque Showrav
+### 🚀 Aspirant Backend Developer | Code-Aware SOC Analyst | History Buff
 
-I am a passionate Software Engineering student at Daffodil International University (1st Semester), currently diving deep into the world of logic, algorithms, and web technologies. I believe in building systems that are as robust as the Ottoman laws and as innovative as modern tech.
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO_WEBSITE-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black)](https://sites.google.com/diu.edu.bd/atikulshowrav/)
+[![Email](https://img.shields.io/badge/EMAIL_ME-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:showrav912@outlook.com)
 
-🛠️ What I'm working on:
-Internship: Contributing to https://ukil.com.bd, focusing on Backend Development and basic security monitoring for now as a Tech Intern.
-Learning: Mastering C programming (logic building with loops & patterns) and exploring the magic of Tech world and web Security.
-Course: Recently I am doing https://phitron.io published paid course named "CSE fundamentals with Phitron" where I am learning the fundamentals and core concepts of programming and bulding logic and increasing problem solving ability. Learning and giving importance to DSA and doing some Competitive Programming. 
-Focus: Bridging the gap between clean code and high-quality problem solving for gaining the benefit for becoming a SOC Analyst.
+---
 
-💻 My Tech Stack:
-Languages: C (Foundation), HTML CSS (ongoing).
-Tools: VS Code, Sublime Text, DEV C/C++, Google Antigravity, Git/GitHub, MacBook Air M2, Learning websites : https://W3schools.com |   https://coddy.tech | https://codechef.com | https://codeforces.com | https://phitron.io | https://tryhackme.com | https://hackthebox.com |
-Operating Systems: MacOS, Kali Linux, Ubuntu & Windows.
+<p align="center">
+  <i>"Building systems as robust as Ottoman laws and as innovative as modern tech."</i>
+</p>
 
-📜 Beyond Coding:
-History: I am fond of knowing the history of this world , empires, battles etc. Huge fan of the Ottoman Empire and Mughal history. I find inspiration in the leadership of Sultan Mehmed Fatih and find enjoyment on knowing the battle tactics of some great conquerors.
-Design: I appreciate aesthetics and strive for pixel-perfect UI.
+</div>
+
+### 🔭 Current Ventures
+- **Tech Intern** at [ukil.com.bd](https://ukil.com.bd) — *Focusing on Backend & Security Monitoring.*
+- **CSE Fundamentals** at [Phitron](https://phitron.io) — *Deep diving into C, DSA, and Problem Solving.*
+- **Learning Path:** Bridging the gap between Clean Code and SOC Analytics.
+
+---
+
+### 💻 Modern Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `C (Foundation)` `HTML5` `CSS3` |
+| **Security & OS** | `Kali Linux` `Ubuntu` `MacOS (M2)` `Windows` |
+| **Dev Tools** | `VS Code` `Git/GitHub` `Sublime Text` |
+| **Platforms** | `Codeforces` `TryHackMe` `HackTheBox` `W3Schools` |
+
+---
+
+### 📜 Beyond the Terminal
+> **History Enthusiast:** Huge fan of the **Ottoman Empire** and **Mughal history**. Inspired by the leadership of *Sultan Mehmed Fatih* and the tactics of great conquerors. I apply that same strategic mindset to problem-solving and code.
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
+</div>
 
 📫 Reach Me:
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://https://www.facebook.com/atiqulsourov423) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/atikul-me) [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:showrav912@outlook.com) [![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://sites.google.com/diu.edu.bd/atikulshowrav/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://https://www.facebook.com/atiqulsourov423) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/atikul-me) [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:showrav912@outlook.com) [![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=black)](https://sites.google.com/diu.edu.bd/atikulshowrav/)
 
 # 📊 GitHub Stats:
 
