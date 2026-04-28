@@ -21,9 +21,7 @@ Design: I appreciate aesthetics and strive for pixel-perfect UI.
 
 📫 Reach Me:
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://https://www.facebook.com/atiqulsourov423) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/atikul-me) [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:showrav912@outlook.com)
-
-<b>Portfolio</b>: https://sites.google.com/diu.edu.bd/atikulshowrav/
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://https://www.facebook.com/atiqulsourov423) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/atikul-me) [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:showrav912@outlook.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-0055ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/diu.edu.bd/atikulshowrav/)
 
 # 📊 GitHub Stats:
 
