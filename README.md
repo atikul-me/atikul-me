@@ -5,6 +5,9 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO_WEBSITE-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black)](https://sites.google.com/diu.edu.bd/atikulshowrav/)
 [![Email](https://img.shields.io/badge/EMAIL_ME-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:showrav912@outlook.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://https://www.facebook.com/atiqulsourov423)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/atikul-me)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:showrav912@outlook.com)
 
 ---
 
@@ -15,8 +18,12 @@
 </div>
 
 ### 🔭 Current Ventures
-- **Tech Intern** at [ukil.com.bd](https://ukil.com.bd) — *Focusing on Backend & Security Monitoring.*
-- **CSE Fundamentals** at [Phitron](https://phitron.io) — *Deep diving into C, DSA, and Problem Solving.*
+- **Tech Intern** at <a href="https://ukil.com.bd">
+  <img src="https://img.shields.io/badge/UKIL.COM.BD-222222?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Ukil">
+</a> — *Focusing on Backend & Security Monitoring.*
+- **CSE Fundamentals** at <a href="https://phitron.io">
+  <img src="https://img.shields.io/badge/PHITRON.IO-7B2CBF?style=for-the-badge&logo=onlinelearning&logoColor=white" alt="Phitron">
+</a> — *Deep diving into C, DSA, and Problem Solving.*
 - **Learning Path:** Bridging the gap between Clean Code and SOC Analytics.
 
 ---
@@ -39,8 +46,8 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=atikul-me&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikul-me&layout=compact&theme=tokyonight&hide_border=true" width="300" />
 </p>
 
 ---
@@ -48,10 +55,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </div>
-
-📫 Reach Me:
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://https://www.facebook.com/atiqulsourov423) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/atikul-me) [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:showrav912@outlook.com) [![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=black)](https://sites.google.com/diu.edu.bd/atikulshowrav/)
 
 # 📊 GitHub Stats:
 
