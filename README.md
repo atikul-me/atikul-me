@@ -4,7 +4,7 @@
 ### 🚀 Aspirant Backend Developer | Code-Aware SOC Analyst | History Buff
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO_WEBSITE-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black)](https://sites.google.com/diu.edu.bd/atikulshowrav/)
-[![Email](https://img.shields.io/badge/EMAIL_ME-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:showrav912@outlook.com)
+[![Email](https://img.shields.io/badge/EMAIL_ME-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:sourovhoque66@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://https://www.facebook.com/atiqulsourov423)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/atikul-me)
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:showrav912@outlook.com)
