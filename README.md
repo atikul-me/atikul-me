@@ -25,7 +25,7 @@ Design: I appreciate aesthetics and strive for pixel-perfect UI.
 
 Email: sourovhoque66@gmail.com
 
-Portfolio: https://sites.google.com/diu.edu.bd/atikulshowrav/
+<b>Portfolio</b>: https://sites.google.com/diu.edu.bd/atikulshowrav/
 
 # 📊 GitHub Stats:
 
