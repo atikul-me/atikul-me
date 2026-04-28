@@ -33,9 +33,9 @@
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | `C (Foundation)` `HTML5` `CSS3` |
-| **Security & OS** | `Kali Linux` `Ubuntu` `MacOS (M2)` `Windows` |
-| **Dev Tools** | `VS Code` `Git/GitHub` `Sublime Text` |
-| **Platforms** | `Codeforces` `TryHackMe` `HackTheBox` `W3Schools` |
+| **Security & OS** | `Kali Linux` `Ubuntu` `MacOS (M2)` `Windows` `Parrot Security OS` |
+| **Dev Tools** | `VS Code` `Git/GitHub` `Sublime Text` `DEV C/C++` `Google Antigravity` |
+| **Platforms** | `Codeforces` `TryHackMe` `HackTheBox` `W3Schools` `GeeksForGeeks` `CodeChef` |
 
 ---
 
