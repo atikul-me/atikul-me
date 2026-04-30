@@ -59,8 +59,6 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atikul-me&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atikul-me&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 ![Profile views](https://komarev.com/ghpvc/?username=atikul-me)
 
