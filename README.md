@@ -44,11 +44,14 @@
 
 ---
 
+<div align="center">
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atikul-me&theme=blue-green&hide_border=false) </br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=atikul-me)
+
+</div>
 
 "Adalet mülkün temelidir" (Justice is the foundation of the state) — Inspired by the Ottoman sense of system and order.
 
