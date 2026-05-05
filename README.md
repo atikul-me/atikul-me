@@ -46,7 +46,7 @@
 
 <div align="center">
   
-<b># 📊 GitHub Stats:</b>
+<h3># 📊 GitHub Stats :</h3>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atikul-me&theme=blue-green&hide_border=false) </br>
 
