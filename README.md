@@ -44,20 +44,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atikul-me&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikul-me&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atikul-me&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atikul-me&color=blueviolet" alt="Profile views" />
-</p>
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atikul-me&theme=blue-green&hide_border=false) </br>
