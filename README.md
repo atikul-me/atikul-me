@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Mohammad Atikul Hoque Showrav
-### 🚀 SOC Analyst Grinding LvL| Aspirant SIEM Expert | History Buff
+### 🚀 SOC Analyst Grinding LvL | Aspirant SIEM Expert | History Buff
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO_WEBSITE-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black)](https://sites.google.com/diu.edu.bd/atikulshowrav/)
 [![Email](https://img.shields.io/badge/EMAIL_ME-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:sourovhoque66@gmail.com)
