@@ -35,7 +35,7 @@
 | **Languages** | `C` `HTML5` `CSS3` `C++` `Python` |
 | **Security & OS** | `Kali Linux` `Ubuntu` `MacOS` `Windows` `Parrot Security OS` |
 | **SOC-Tools** | `Terminal` `Git/GitHub` `Suricata` `Splunk` `SIEM-Tools` `Nmap` `Wireshark` `Burp-Suite` `CrowdStrike` |
-| **Platforms** | `Codeforces` `TryHackMe` `HackTheBox` `W3Schools` `GeeksForGeeks` `CodeChef` `Beecrowd` `Infoseclabs` |
+| **Platforms** | `Codeforces` `TryHackMe` `HackTheBox` `W3Schools` `GeeksForGeeks` `CodeChef` `CyberDefenders` `Infoseclabs` `LetsDefend` |
 
 ---
 
