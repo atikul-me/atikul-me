@@ -20,10 +20,6 @@
 ### 🔭 Current Ventures
 - **Tech Intern** at <a href="https://ukil.com.bd">
   <img src="https://img.shields.io/badge/UKIL.COM.BD-222222?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Ukil">
-</a> — *Focusing on Backend & Security Monitoring.*
-- **SWE Fundamentals** at <a href="https://phitron.io">
-  <img src="https://img.shields.io/badge/PHITRON.IO-7B2CBF?style=for-the-badge&logo=onlinelearning&logoColor=white" alt="Phitron">
-</a> — *Deep diving into C, C++, DSA and Competitive Programming-Problem Solving.*
 - **Learning Path:** Bridging the gap between Clean Code and SOC Analytics.
 
 ---
