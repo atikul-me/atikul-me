@@ -31,7 +31,8 @@
 | **Languages** | `C` `HTML5` `CSS3` `C++` `Python` |
 | **Security & OS** | `Kali Linux` `Ubuntu` `MacOS` `Windows` `Parrot Security OS` |
 | **SOC-Tools** | `Terminal` `Git/GitHub` `Suricata` `Splunk` `SIEM-Tools` `Nmap` `Wireshark` `Burp-Suite` `CrowdStrike` |
-| **Platforms** | `TryHackMe` `HackTheBox` `Blue Team Labs Online` `GeeksForGeeks` `CyberDefenders` `Infoseclabs` `LetsDefend` |
+| **GRC** | `ISO 27001` `NIST Cybersecurity Framework versions` |
+| **Platforms** | `TryHackMe` `HackTheBox` `Blue Team Labs Online` `GeeksForGeeks` `CyberDefenders` `Infoseclabs` `LetsDefend` `ISO` `NIST Official` |
 | **Research** | `XAI Implementation in SOC to Reduce Analysts Burnout & Fatigue` |
 
 ---
