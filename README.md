@@ -28,7 +28,7 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | `C` `HTML5` `CSS3` `C++` `Python` |
+| **Languages** | `C` `HTML5` `CSS3` `C++` `Python` `Vibe Coding included` |
 | **Security & OS** | `Kali Linux` `Ubuntu` `MacOS` `Windows` `Parrot Security OS` |
 | **SOC-Tools** | `Terminal` `Git/GitHub` `Suricata` `Splunk` `SIEM-Tools` `Nmap` `Wireshark` `Burp-Suite` `CrowdStrike` |
 | **GRC** | `ISO 27001` `NIST Cybersecurity Framework versions` |
