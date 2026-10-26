@@ -20,7 +20,7 @@
 ### 🔭 Current Ventures
 - **Tech Intern** at <a href="https://ukil.com.bd">
   <img src="https://img.shields.io/badge/UKIL.COM.BD-222222?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Ukil">
-- **Learning Path:** Bridging the gap between Clean Code and SOC Analytics.
+- **Learning Path:** Focusing on studying the NIST CS Framework versions for core & deep knowledge in GRC. Bridging the gap between Clean Code and SOC Analytics.
 
 ---
 
