@@ -24,7 +24,7 @@
 
 ---
 
-### 💻 Modern Tech Stack
+### 💻 Modern Tech Stacks
 
 | Category | Tools & Technologies |
 | :--- | :--- |
