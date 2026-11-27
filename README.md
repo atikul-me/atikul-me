@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Mohammad Atikul Hoque Showrav
-### 🚀 Aspirant GRC Specialist - ISO 27001 Lead Auditor Expert & Cybersecurity Analyst | History Buffs
+### 🚀 Aspirant GRC Specialist - ISO 27001 Lead Auditor Expert & Cybersecurity Analyst | History Buff
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO_WEBSITE-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black)](https://sites.google.com/diu.edu.bd/atikulshowrav/)
 [![Email](https://img.shields.io/badge/EMAIL_ME-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:sourovhoque66@gmail.com)
@@ -33,7 +33,7 @@
 | **Languages** | `C` `HTML5` `CSS3` `C++` `Python` `Vibe Coding included` |
 | **Security & OS** | `Kali Linux` `Ubuntu` `MacOS` `Windows` `Parrot Security OS` |
 | **SOC-Tools** | `Terminal` `Git/GitHub` `Suricata` `Splunk` `SIEM-Tools` `Nmap` `Wireshark` `Burp-Suite` `CrowdStrike` |
-| **GRC** | `ISO 27001` `NIST Cybersecurity Framework versions` |
+| **GRC** | `ISO 27001:27002` `NIST Cybersecurity Framework versions` |
 | **Platforms** | `TryHackMe` `HackTheBox` `Blue Team Labs Online` `GeeksForGeeks` `CyberDefenders` `Infoseclabs` `LetsDefend` `ISO` `NIST Official` |
 | **Research** | `XAI Implementation in SOC to Reduce Analysts Burnout & Fatigue` |
 
